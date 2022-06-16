@@ -1,5 +1,5 @@
 package com.example.demo;
 
 public class Tryout {
-String name = "";
+String name = "My Tryout";
 }
